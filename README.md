@@ -1,3 +1,3 @@
 #### Hello, I'm Ru Sia
 
-A CS Student. 
+A Computer Science freshman in Shanghai.
